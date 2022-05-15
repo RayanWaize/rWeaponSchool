@@ -1,3 +1,3 @@
 # rWeaponSchool
 
-Discord : https://discord.gg/5dev
+Discord : https://discord.gg/rdev
